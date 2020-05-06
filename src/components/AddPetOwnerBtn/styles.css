@@ -1,0 +1,12 @@
+.add-pet-owner-btn {
+    background: tomato;
+    border-radius: 50px;
+    top: 50px;
+    color: white;
+    font-size: 1rem;
+    height: 100px;
+    position: fixed;
+    right: 210px;
+    width: 100px;
+    z-index: 2;
+}
